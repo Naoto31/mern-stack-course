@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://naoto3131:naoto3131@mernstack.ppwkt.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}
